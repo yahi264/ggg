@@ -173,6 +173,7 @@ header .container nav ul li a:hover{
 /* start landing */
 .landing{
  height: 100vh;
+ background-color: black;
  background-image: url(/images/owl3.jpg);
  background-position: center center;
  background-size: cover;
@@ -541,7 +542,7 @@ color:var(--main-color);
   .stat{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding); 
-    background-color: #eee;
+    background-color: black;
     background-image:url(/images/bac.jpg);
     background-position: center center;
     background-size: cover;
@@ -723,7 +724,8 @@ color:var(--main-color);
     padding-top:var(--section-padding);
     padding-bottom:var(--section-padding);
     height: 400px;
-    background-image: url(/images/coral\ reef.jpg);
+    background-color: black;
+    background-image: url(/imagess/coral\ reef.jpg);
     background-size: cover;
     background-position:center center ;
     position: relative;
