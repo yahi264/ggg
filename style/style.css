@@ -773,6 +773,8 @@ color:var(--main-color);
     text-align: center;
     display: grid;
     text-align: center;
+    justify-content: center;
+     
     grid-template-columns:repeat(auto-fill, minmax(200px, 1fr)) ;
     gap: 80px 30px;
 }
